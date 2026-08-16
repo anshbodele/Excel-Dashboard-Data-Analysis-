@@ -31,7 +31,8 @@ Without a clear dashboard, decision-makers struggle to identify growth opportuni
 - Interactive Slicers for filtering
 
 ## Dashboard Interaction
-- <a href="https://github.com/anshbodele/Excel-Dashboard-Data-Analysis-/blob/main/Retail%20Sales%20Dashboard%20screenshot.png>View Dashboard</a>
+<img width="1571" height="712" alt="Retail Sales Dashboard screenshot" src="https://github.com/user-attachments/assets/d6b56e70-9e97-4b80-92d6-c899d7371cc0" />
+
 
 ## Dataset Used
 - <a href="https://github.com/anshbodele/Excel-Dashboard-Data-Analysis-/blob/main/Excel%20lecture%202%20learnings.xlsx">Dataset</a>
